@@ -1,6 +1,6 @@
-# i'm am will turn into nroth korea
+# i'm am will turn into *nrot*h korea
 
 h elp
-the metamorphosis will be excruciatingly painful
+the metamorphosis w**ill b**e excruciatingly painful
 
-Stop reading this, idiiot
+Stop reading this, id***iio***t
