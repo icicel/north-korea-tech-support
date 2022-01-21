@@ -1,5 +1,6 @@
 import math
 alldigits = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_!\"#$%&'()*+/:;<=>?@[\]^`{|}~´¤£€¨§ "
+# digits for every base. digitdict is for special digits. idk this code is old
 digitdict = {
     12: "0123456789XE",
     26: "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
